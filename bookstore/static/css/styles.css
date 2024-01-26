@@ -1,9 +1,13 @@
-h1{
-    color:black;
-}
 
 .form-layout{
+
     border-radius: 15px;
     width: 500px;
-    
+
+}
+
+.message-text{
+
+    color: white;
+
 }
